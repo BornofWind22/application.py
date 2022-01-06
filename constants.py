@@ -1,12 +1,4 @@
 
-#WHEN I GO TO SEE IF THE PLAYERS HAVE EXPERIENCE OR NOT i CAN USE THE IN DOCS STATEMENT OR:
-#if experience == yes
-#team.append(player)
-#else:
-    #add to new list of players: without experience
-    #see python sequences membership testing
-
-
 TEAMS = [
     'Panthers',
     'Bandits',
